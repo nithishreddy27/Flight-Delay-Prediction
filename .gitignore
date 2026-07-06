@@ -1,0 +1,11 @@
+webapp/models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Windows / misc
+bash.exe.stackdump
